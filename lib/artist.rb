@@ -37,7 +37,7 @@
   end 
   def add_song(song)
 #    @songs << song
-    @songs
+#   @songs
  # end
 
 #  def save
